@@ -2,6 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 --
-
-Testing testing
+Who's the man **NOW** Dog?
 use the left arrow to go back
